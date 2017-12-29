@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmergencyCallsPeru</string>
+    <string name="splash_activity_welcome">Bienvenido!</string>
+</resources>
